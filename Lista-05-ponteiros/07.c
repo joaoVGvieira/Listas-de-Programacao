@@ -1,0 +1,1 @@
+/* Pelas alternativas apresentadas pode afirma que as letras C e E são falsa/ na C  se altera o valor de *pti nao ira mudar o valor declarado por i/ e na E o pti vale o numero de endereço de i e nao o valor armazenado em i*/ 
